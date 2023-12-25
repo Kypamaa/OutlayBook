@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlayBook", "OutlayBook\OutlayBook.csproj", "{F14D792C-530B-4D64-AA4B-D52F3EB7CF4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14D792C-530B-4D64-AA4B-D52F3EB7CF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14D792C-530B-4D64-AA4B-D52F3EB7CF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14D792C-530B-4D64-AA4B-D52F3EB7CF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14D792C-530B-4D64-AA4B-D52F3EB7CF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88225CCF-48AD-46CF-B104-07576FA5ABE0}
+	EndGlobalSection
+EndGlobal
